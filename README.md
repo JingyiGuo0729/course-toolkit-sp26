@@ -2,6 +2,15 @@
 Spring 2026 Data 498 Repository
 
 Contributors:
+- Taryn Laird (course instructor)
+- Zhiyao Liu
+- Duli Lei
+- Chaoran Chen
+- NUOHU LI
+- Jiaqi Li
+- Lei Wei
+- Weizhan Gao
+- Qiuyu Wang
 - Jingyi Guo
 
 
